@@ -10,11 +10,11 @@ locale                   : "en"
 title                    : "Vivek Vaidya"
 title_separator          : "-"
 name                     : "Vivek Vaidya"
-description              : "Welcome to my personal website."
+description              : "VIVEK VAIDYA CAPITAL ONE UIUC ILLINOIS ALL THE SEO POSSIBLE PLS"
 url                      : "https://vivekvaidya.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vivekvaidya/vivekvaidya.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # "assets/images/usethis.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,15 +70,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-51108954-2"
 
 
 # Site Author
 author:
   name             : "Vivek Vaidya"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/usethis.png"
   bio              : "Student at the University of Illinois, Urbana-Champaign."
   email            : "vivekvaidya@outlook.com"
   uri              :
@@ -93,7 +93,7 @@ author:
   keybase          : "vivekvaidya"
   instagram        : "vivekvaidya"
   lastfm           :
-  linkedin         :
+  linkedin         : "v1v3k"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -233,7 +233,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -241,6 +240,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
