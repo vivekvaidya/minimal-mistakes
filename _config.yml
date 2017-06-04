@@ -7,27 +7,27 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Vivek Vaidya"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Vivek Vaidya"
+description              : "Welcome to my personal website."
+url                      : "https://vivekvaidya.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "vivekvaidya/vivekvaidya.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "vivekvaidya-me"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "thevivekvaidya"
 facebook:
-  username               :
+  username               : "facebvvk"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,22 +77,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vivek Vaidya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Student at the University of Illinois, Urbana-Champaign."
+  email            : "vivekvaidya@outlook.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "facebvvk"
   foursquare       :
-  github           :
+  github           : "vivekvaidya"
   google_plus      :
-  keybase          :
-  instagram        :
+  keybase          : "vivekvaidya"
+  instagram        : "vivekvaidya"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -100,7 +99,8 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "thevivekvaidya"
+  location         : "Champaign, IL"
   vine             :
   weibo            :
   xing             :
