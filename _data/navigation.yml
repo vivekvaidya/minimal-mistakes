@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Resume"
-    url: https://vivekvaidya.me/Resume.pdf
   - title: "About Me"
     url: /about/
   # - title: "Sample Posts"
